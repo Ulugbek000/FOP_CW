@@ -1,0 +1,235 @@
+{
+  "title": "Deep Breathing & Psychological Wellbeing Survey",
+  "description": "This survey assesses your psychological wellbeing through breathing habits, task confidence, and mental clarity.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "How often do you take slow, deep breaths before starting a difficult task?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "How confident do you feel when beginning a new academic or work assignment?",
+      "options": [
+        {"label": "Very confident", "score": 0},
+        {"label": "Fairly confident", "score": 1},
+        {"label": "Neutral", "score": 2},
+        {"label": "Somewhat uncertain", "score": 3},
+        {"label": "Very uncertain", "score": 4}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "How often do you feel a sense of tightness or constriction in your chest during stressful moments?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always", "score": 4}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "How easily can you clear your mind and focus when you sit down to work?",
+      "options": [
+        {"label": "Very easily", "score": 0},
+        {"label": "Fairly easily", "score": 1},
+        {"label": "With some effort", "score": 2},
+        {"label": "With great effort", "score": 3},
+        {"label": "I cannot focus at all", "score": 4}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How frequently do you pause and breathe mindfully when feeling overwhelmed?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How often do you experience shallow or rapid breathing when under pressure?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always", "score": 4}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "How calm do you feel internally when facing an unexpected challenge?",
+      "options": [
+        {"label": "Very calm", "score": 0},
+        {"label": "Fairly calm", "score": 1},
+        {"label": "Mildly tense", "score": 2},
+        {"label": "Quite tense", "score": 3},
+        {"label": "Panicked", "score": 4}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How often do you use breathing exercises as part of a daily routine?",
+      "options": [
+        {"label": "Every day", "score": 0},
+        {"label": "Several times a week", "score": 1},
+        {"label": "Occasionally", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How much does anxiety or nervousness interfere with your ability to start tasks?",
+      "options": [
+        {"label": "Not at all", "score": 0},
+        {"label": "Slightly", "score": 1},
+        {"label": "Moderately", "score": 2},
+        {"label": "Significantly", "score": 3},
+        {"label": "Completely", "score": 4}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How well do you recover psychologically after making a mistake or failing at a task?",
+      "options": [
+        {"label": "Very well — I move on quickly", "score": 0},
+        {"label": "Fairly well", "score": 1},
+        {"label": "Takes some time", "score": 2},
+        {"label": "I struggle to recover", "score": 3},
+        {"label": "I dwell on it for a long time", "score": 4}
+      ]
+    },
+    {
+      "id": 11,
+      "text": "How often do you feel mentally exhausted before your day even begins?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Every day", "score": 4}
+      ]
+    },
+    {
+      "id": 12,
+      "text": "How aware are you of your own breathing patterns during stressful situations?",
+      "options": [
+        {"label": "Very aware", "score": 0},
+        {"label": "Somewhat aware", "score": 1},
+        {"label": "Neutral", "score": 2},
+        {"label": "Rarely aware", "score": 3},
+        {"label": "Not aware at all", "score": 4}
+      ]
+    },
+    {
+      "id": 13,
+      "text": "How often do you feel a sense of dread or avoidance when approaching an important task?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always", "score": 4}
+      ]
+    },
+    {
+      "id": 14,
+      "text": "How would you describe your overall sense of inner peace on a typical day?",
+      "options": [
+        {"label": "Very peaceful", "score": 0},
+        {"label": "Mostly peaceful", "score": 1},
+        {"label": "Mixed feelings", "score": 2},
+        {"label": "Mostly unsettled", "score": 3},
+        {"label": "Constantly troubled", "score": 4}
+      ]
+    },
+    {
+      "id": 15,
+      "text": "How often do you feel physically tense (shoulders, jaw, hands) when working?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Almost always", "score": 4}
+      ]
+    },
+    {
+      "id": 16,
+      "text": "How frequently do you complete tasks without procrastinating?",
+      "options": [
+        {"label": "Almost always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Almost never", "score": 4}
+      ]
+    },
+    {
+      "id": 17,
+      "text": "How well do you sleep the night before an important event or deadline?",
+      "options": [
+        {"label": "Very well", "score": 0},
+        {"label": "Fairly well", "score": 1},
+        {"label": "Somewhat restless", "score": 2},
+        {"label": "Poorly", "score": 3},
+        {"label": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "id": 18,
+      "text": "How often do you use self-talk or internal encouragement before a challenging task?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 19,
+      "text": "How often do you feel that your mind goes blank when you need to perform under pressure?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always", "score": 4}
+      ]
+    },
+    {
+      "id": 20,
+      "text": "How satisfied are you with your overall psychological wellbeing right now?",
+      "options": [
+        {"label": "Very satisfied", "score": 0},
+        {"label": "Satisfied", "score": 1},
+        {"label": "Neutral", "score": 2},
+        {"label": "Dissatisfied", "score": 3},
+        {"label": "Very dissatisfied", "score": 4}
+      ]
+    }
+  ],
+  "states": [
+    {"min": 0,  "max": 14, "label": "Excellent Psychological Wellbeing",    "description": "You demonstrate outstanding psychological balance. Your breathing awareness and task confidence are at an optimal level. No intervention required.", "color": "#f0f0f0"},
+    {"min": 15, "max": 27, "label": "Good Psychological Wellbeing",          "description": "You are in a good psychological state with minor areas to strengthen. Continue your healthy habits and consider exploring mindfulness techniques.", "color": "#d4d4d4"},
+    {"min": 28, "max": 40, "label": "Mild Psychological Tension",            "description": "You experience moderate tension that occasionally affects your confidence and focus. Practising daily deep-breathing routines may help significantly.", "color": "#a3a3a3"},
+    {"min": 41, "max": 53, "label": "Moderate Psychological Stress",         "description": "Noticeable stress and anxiety are affecting your daily functioning. Consider structured breathing exercises, journaling, or speaking with a counsellor.", "color": "#737373"},
+    {"min": 54, "max": 66, "label": "Elevated Psychological Distress",       "description": "You are experiencing elevated distress that is likely interfering with your academic or work performance. Seeking psychological support is advisable.", "color": "#525252"},
+    {"min": 67, "max": 75, "label": "High Psychological Distress",           "description": "Your results indicate significant psychological difficulty. Professional psychological support is strongly recommended.", "color": "#292929"},
+    {"min": 76, "max": 80, "label": "Severe Psychological Crisis",           "description": "You are in a severe state of psychological distress. Please reach out to a mental health professional or trusted person immediately.", "color": "#111111"}
+  ]
+}
